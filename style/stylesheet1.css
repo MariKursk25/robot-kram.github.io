@@ -1,4 +1,4 @@
-
+﻿
 html {
 	font-size: 62.5%;
 }
@@ -46,7 +46,7 @@ header {
     box-sizing: border-box;/*Свойства width и height включают в себя значения полей и границ, но не отступов (margin).*/
 	height: 40.5rem;
 	width: 80.1rem;
-	background: url("../images/IMG_4.JPG");
+	background: url("../images/IMG_4.jpg");
     background-size: cover; /* Масштабирует изображение с сохранением пропорций ширина или высота равнялась ширине или высоте блока*/
     z-index: 3;
     margin-left: 200px;
